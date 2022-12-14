@@ -1,3 +1,4 @@
+// all word list
 const wordList = [
     {
         word: "python",
