@@ -19,8 +19,8 @@ This is a webpage based app Word Guessing Game.
 ### Description
 
 This is web based live Game App of Word Guessing, and this is responsive by nature for big and small devices, with the use of frontend technologies.
-- It is very interesting game & User can inhance his guessing skills.
-- It allow user to guess the word with in limited guessing chance based on word length.
+- It is very interesting game & User can enhance his guessing skills.
+- It allows user to guess the word with in limited guessing chance based on word length.
 - Can See When you won the game celebration will be happened in background.
 - User can change the background color randomly by clicking on New Game.
 - When User loses, Game Over will be appear and correct word will be appeared.
