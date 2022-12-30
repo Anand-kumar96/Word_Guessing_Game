@@ -19,11 +19,11 @@ This is a webpage based app Word Guessing Game.
 ### Description
 
 This is web based live Game App of Word Guessing, and this is responsive by nature for big and small devices, with the use of frontend technologies.
-
-- It allow user to filter dates and set dates/years.
-- Can See hover states for all interactive elements on the page.
-- User can select dark mode and light mode.
-- The present date in light mode shows in Eucalyptus color and in dark mode light green color.
+- It is very interesting game & User can inhance his guessing skills.
+- It allow user to guess the word with in limited guessing chance based on word length.
+- Can See When you won the game celebration will be happened in background.
+- User can change the background color randomly by clicking on New Game.
+- When User loses, Game Over will be appear and correct word will be appeared.
 
 ### Screenshot
 
@@ -37,13 +37,13 @@ This is web based live Game App of Word Guessing, and this is responsive by natu
 
 ### What I learned
 
-While doing this project I have implemented the Javascript functionality of dropdown menu for month and year and also implemented drak mode functionality, along with I learnt about date object different properties. This Project really helped me to polish my css skills as well as JavaScript skills to render something which was running in my mind for combining present, past and future time. I also learnt to implement HTML,CSS,JavaScript to meet design expectation.
+While doing this project I have implemented the Javascript functionality of checking right word from list of word and also implemented random color generating functionality, along with I learnt about confetti, different properties of Css. This Project really helped me to polish my css skills as well as JavaScript skills to render something which was running in my mind for combining present, past and future time. I also learnt to implement HTML,CSS,JavaScript to meet design expectation.
 
 
 ### Links
 
-- Code URL     : [https://github.com/Anand-kumar96/Calendar](https://github.com/Anand-kumar96/Calendar)
-- Live Site URL: [https://html-css-javascript-calendar.netlify.app](https://html-css-javascript-calendar.netlify.app)
+- Code URL     : [https://github.com/Anand-kumar96/Word_Guessing_Game)
+- Live Site URL: [https://guess-word-project-by-anand.netlify.app/)
 
 ### Setup-Installation-Requirements
 -  Clone this repo to your desktop
