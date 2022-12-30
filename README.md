@@ -1,7 +1,7 @@
 # JS-Project---Calendar
 
 #### By Anand Kumar
-This is a webpage based app of live Calendar.
+This is a webpage based app Word Guessing Game.
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a webpage based app of live Calendar.
 
 ### Description
 
-This is web based live App of Calendar, and this is responsive by nature for big and small devices, with the use of frontend technologies.
+This is web based live Game App of Word Guessing, and this is responsive by nature for big and small devices, with the use of frontend technologies.
 
 - It allow user to filter dates and set dates/years.
 - Can See hover states for all interactive elements on the page.
